@@ -1,4 +1,4 @@
-jquery-file-upload-middleware
+jquery-file-upload-middleware 
 =============================
 
 jQuery-File-Upload Express.js middleware. Based on the server code of [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
